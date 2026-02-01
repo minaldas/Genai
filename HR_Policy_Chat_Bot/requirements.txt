@@ -1,0 +1,19 @@
+# Document Parsers for RAG - Requirements
+# Python 3.10-3.12 recommended
+
+# =============================================================================
+# Core Dependencies (all notebooks)
+# =============================================================================
+python-dotenv
+openai
+chromadb
+
+# LangChain (shared across notebooks)
+# =============================================================================
+langchain
+langchain-community
+langchain-openai
+pypdf
+docx2txt
+
+stream-lit
